@@ -10,7 +10,7 @@ import javax.swing.JScrollPane;
 import javax.swing.JTextArea;
 import javax.swing.JTextField;
 
-/*P10.9    Write a graphical application simulating a bank account. Supply text fields and but-
+/*P10.9  Write a graphical application simulating a bank account. Supply text fields and but-
  tons for depositing and withdrawing money, and for displaying the current balance
  in a label.*/
 
